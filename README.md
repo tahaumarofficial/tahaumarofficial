@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=pulse&color=0:0D1117,50:101820,100:0D1117&height=300&section=header&text=YOUR%20NAME&fontSize=75&fontColor=FFFFFF&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=pulse&color=0:6A0DAD,50:9B59B6,100:4B0082&height=300&section=header&text=YOUR%20NAME&fontSize=75&fontColor=FFFFFF&animation=fadeIn"
     width="100%"
   />
 </p>
@@ -119,7 +119,7 @@ expanding my technical skills.
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=pulse&color=0:0D1117,50:101820,100:0D1117&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=pulse&color=0:4B0082,50:9B59B6,100:6A0DAD&height=120&section=footer"
     width="100%"
   />
 </p>
