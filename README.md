@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=pulse&color=0:9B59B6,50:C77DFF,100:6A0DAD&height=300&section=header&text=Muhammad%20Taha Umar&fontSize=75&fontColor=2B0A3D&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=pulse&color=0:9B59B6,50:C77DFF,100:6A0DAD&height=300&section=header&text=Muhammad%20Taha&fontSize=75&fontColor=2B0A3D&animation=fadeIn"
     width="100%"
   />
 </p>
